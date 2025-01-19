@@ -1,6 +1,4 @@
-# java
-Stuff about my studies in java at TÉLUQ university.
-
+# INF 1220 - java
 
 ## Organisation du cours
 
