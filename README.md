@@ -12,10 +12,12 @@ Stuff about my studies in java at TÉLUQ university.
 
 ## Les livres, les sites et le web
 
+### Les livres :
+
 Vous ne trouverez aucun livre, aucun site qui est suffisant en lui-même pour apprendre à programmer. Voici néanmoins quelques volumes supplémentaires que vous pouvez choisir d’acquérir. Ce ne sont que des suggestions:
 
-- En appui à ces activités, le livre de Claude Delanoy, “Programmer en Java” est utilisé comme lecture d’appoint (mais obligatoire).
-- Nous utilisons aussi un manuel d’introduction à la programmation Java intitulé Java pas à pas par Robert Godin et Daniel Lemire. Vous pouvez charger le document [PDF](https://github.com/RobertGodin/JavaPasAPas/raw/master/JavaPasAPas.pdf) dès maintenant.
+- Programmer en Java par Claude Delanoy
+- Java pas à pas par Robert Godin et Daniel Lemire. Vous pouvez charger le document [PDF](https://github.com/RobertGodin/JavaPasAPas/raw/master/JavaPasAPas.pdf) dès maintenant.
 - Java pour les nuls par Barry Burd
 - Apprenez à programmer en Java : la programmation professionnelle à la portée de tous ! par Cyrille Herby
 
@@ -23,10 +25,11 @@ Vous ne trouverez aucun livre, aucun site qui est suffisant en lui-même pour ap
 - [Apprendre Java et la Programmation Orientée Objet](https://www.ukonline.be/cours/java/apprendre-java) par Sébastien Combéfis.
 - [Programmation Java](https://fr.wikibooks.org/wiki/Programmation_Java) chez wikibooks
 
+### Les vidéos
+
 Il y a un nombre incalculables de séries vidéo sur YouTube en français portant sur l’initiation à la programmation Java. Nous vous encourageons à les regarder :
 
 - [Le cours d’introduction à Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) de FormationVideo (très apprécié de certains étudiants)
-- [Apprendre le Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv)
-- [Tuto Java](https://www.youtube.com/watch?v=XgVADKKb4jI&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM&index=2)
-- [Java apprendre à coder](https://www.youtube.com/playlist?list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW)
-- [Programmer en java](https://www.youtube.com/playlist?list=PLlxQJeQRaKDRnvgIvfHTV6ZY8M2eurH95)
+- [Apprendre le Java](https://www.youtube.com/playlist?list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM) de Graven - Développement
+- [Tuto Java](https://www.youtube.com/playlist?list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) de Dominique Liard
+- [Programmer en java](https://www.youtube.com/playlist?list=PLlxQJeQRaKDRnvgIvfHTV6ZY8M2eurH95) de LES TEACHERS DU NET
