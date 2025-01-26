@@ -8,26 +8,37 @@
 - Module 4. Les entrées et sorties.
 - Module 5. La programmation orientée-objet: héritage et le polymorphisme.
 
-## Les livres, les sites et le web
+<h3> Les livres, les sites et le web </h3>
 
-### Les livres :
+<li> Livre de référence : Claude Delanoy, “Programmer en Java”, Eyrolles</li>
 
-Vous ne trouverez aucun livre, aucun site qui est suffisant en lui-même pour apprendre à programmer. Voici néanmoins quelques volumes supplémentaires que vous pouvez choisir d’acquérir. Ce ne sont que des suggestions:
+<li>Java pas à pas par Robert Godin et Daniel Lemire. Vous pouvez charger le document <a href="https://github.com/RobertGodin/JavaPasAPas/raw/master/JavaPasAPas.pdf">PDF</a> dès maintenant.</li>
 
-- Programmer en Java par Claude Delanoy
-- Java pas à pas par Robert Godin et Daniel Lemire. Vous pouvez charger le document [PDF](https://github.com/RobertGodin/JavaPasAPas/raw/master/JavaPasAPas.pdf) dès maintenant.
-- Java pour les nuls par Barry Burd
-- Apprenez à programmer en Java : la programmation professionnelle à la portée de tous ! par Cyrille Herby
+<li> Tutoriel officiel d&rsquo;Oracle pour Java (en anglais) : <a href="https://docs.oracle.com/javase/tutorial/?sess=16e492aba137894101940f7f88d9f51f">ici</a></li>
 
-### Quelques guides en ligne :
-- [Apprendre Java et la Programmation Orientée Objet](https://www.ukonline.be/cours/java/apprendre-java) par Sébastien Combéfis.
-- [Programmation Java](https://fr.wikibooks.org/wiki/Programmation_Java) chez wikibooks
+<li> L&rsquo;API Java 1.8 &#8212; La référence pour comprendre ou trouver une ressource : <a href="https://docs.oracle.com/javase/8/docs/api/">ici</a></li>
 
-### Les vidéos
+<li> Site de questions/réponses liées à la programmation: <a href="http://stackoverflow.com/">stackoverflow</a></li>
+</ol>
 
-Il y a un nombre incalculables de séries vidéo sur YouTube en français portant sur l’initiation à la programmation Java. Nous vous encourageons à les regarder :
+<h3>Manuels supplémentaires</h3>
 
-- [Le cours d’introduction à Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) de FormationVideo (très apprécié de certains étudiants)
-- [Apprendre le Java](https://www.youtube.com/playlist?list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM) de Graven - Développement
-- [Tuto Java](https://www.youtube.com/playlist?list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW) de Dominique Liard
-- [Programmer en java](https://www.youtube.com/playlist?list=PLlxQJeQRaKDRnvgIvfHTV6ZY8M2eurH95) de LES TEACHERS DU NET
+<ol>
+<li><a href="https://www.amazon.ca/JAVA-POUR-NULS-4E-ÉDITION/dp/2412046638/">Java pour les nuls</a> par Barry Burd </li>
+<li><a href="https://www.renaud-bray.com/Livres_Produit.aspx?id=2384711">Apprenez à programmer en Java : la programmation professionnelle à la portée de tous !</a> par Cyrille Herby </li>
+</ol>
+
+<h3>Quelques guides en ligne</h3>
+
+<ol>
+<li><a href="https://www.ukonline.be/cours/java/apprendre-java">Apprendre Java et la Programmation Orientée Objet</a> par Sébastien Combéfis.</li>
+<li><a href="https://fr.wikibooks.org/wiki/Programmation_Java">Programmation Java</a> chez wikibooks</li>
+</ol>
+
+<h3>Séries vidéo sur YouTube en français portant sur l&rsquo;initiation à la programmation Java</h3>
+
+<ol>
+<li><a href="https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv">Le cours d’introduction à Java</a></li><li><a href="https://www.youtube.com/playlist?list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM">Apprendre le Java</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW">Tuto Java</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlxQJeQRaKDRnvgIvfHTV6ZY8M2eurH95">Programmer en java</a></li>
+</ol>
